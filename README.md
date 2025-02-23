@@ -17,4 +17,4 @@ A simple traffic light simulator created using HTML and CSS. This project visual
 
 ## 💡 How to Use
 1. Clone the repository:
-  git@github.com:pprachhiii/simple-traffic-light.git
+  git clone https://github.com/pprachhiii/simple-traffic-light.git
